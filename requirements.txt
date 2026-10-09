@@ -4,6 +4,7 @@ chdb==4.4.0
 chdb-core==26.9.0
 colorama==0.4.6
 directory_tree==1.0.0
+duckdb==1.5.6
 executing==2.2.1
 ipython==9.17.1
 ipython_pygments_lexers==1.1.1
