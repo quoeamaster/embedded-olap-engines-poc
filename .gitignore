@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# export or report or stats for benchmarking (non useful for the project)
+export_report/**/*
+
+# data files (for testing or benchmarking)
+data/**/*
