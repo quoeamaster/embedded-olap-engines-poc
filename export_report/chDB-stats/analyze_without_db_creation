@@ -1,0 +1,10 @@
+==================================================
+ Benchmark: query_chdb
+==================================================
+ Execution time : 0.0000 seconds
+ Memory before : 132.78 MB
+ Memory after  : 132.78 MB
+ Memory change : +0.00 MB
+ Peak memory   : 132.81 MB
+ Peak increase : +0.03 MB
+==================================================

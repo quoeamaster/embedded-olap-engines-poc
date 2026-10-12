@@ -1,0 +1,49 @@
+==================================================
+ Benchmark: generate_session
+==================================================
+ Execution time : 0.0284 seconds
+ Memory before : 159.62 MB
+ Memory after  : 163.89 MB
+ Memory change : +4.27 MB
+ Peak memory   : 163.92 MB
+ Peak increase : +4.30 MB
+==================================================
+
+2026-10-09 12:41:48 [INFO] analyze_session_db_creation: prepare db...
+
+==================================================
+ Benchmark: prepare_db
+==================================================
+ Execution time : 0.0413 seconds
+ Memory before : 163.91 MB
+ Memory after  : 315.20 MB
+ Memory change : +151.30 MB
+ Peak memory   : 354.06 MB
+ Peak increase : +190.16 MB
+==================================================
+
+2026-10-09 12:41:48 [INFO] analyze_session_db_creation: query db...
+
+==================================================
+ Benchmark: query_db
+==================================================
+ Execution time : 0.0027 seconds
+ Memory before : 315.20 MB
+ Memory after  : 317.06 MB
+ Memory change : +1.86 MB
+ Peak memory   : 317.06 MB
+ Peak increase : +1.86 MB
+==================================================
+
+2026-10-09 12:41:48 [INFO] analyze_session_db_creation: close db...
+
+==================================================
+ Benchmark: close_db
+==================================================
+ Execution time : 0.0034 seconds
+ Memory before : 317.06 MB
+ Memory after  : 317.09 MB
+ Memory change : +0.03 MB
+ Peak memory   : 317.09 MB
+ Peak increase : +0.03 MB
+==================================================

@@ -1,0 +1,10 @@
+==================================================
+ Benchmark: query_pandas
+==================================================
+ Execution time : 0.1667 seconds
+ Memory before : 99.66 MB
+ Memory after  : 473.08 MB
+ Memory change : +373.42 MB
+ Peak memory   : 473.08 MB
+ Peak increase : +373.42 MB
+==================================================

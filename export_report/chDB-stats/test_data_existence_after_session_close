@@ -1,0 +1,11 @@
+
+==================================================
+ Benchmark: test_data_existence_after_session_close
+==================================================
+ Execution time : 0.0322 seconds
+ Memory before : 159.56 MB
+ Memory after  : 168.69 MB
+ Memory change : +9.12 MB
+ Peak memory   : 168.69 MB
+ Peak increase : +9.12 MB
+==================================================

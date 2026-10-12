@@ -1,0 +1,25 @@
+[single mode]
+
+==================================================
+ Benchmark: run_pandas
+==================================================
+ Execution time : 0.2393 seconds
+ Memory before : 207.69 MB
+ Memory after  : 1751.59 MB
+ Memory change : +1543.91 MB
+ Peak memory   : 1751.59 MB
+ Peak increase : +1543.91 MB
+==================================================
+
+[stress mode - 10]
+
+==================================================
+ Benchmark: run_pandas
+==================================================
+ Execution time : 1.8305 seconds
+ Memory before : 208.48 MB
+ Memory after  : 3187.20 MB
+ Memory change : +2978.72 MB
+ Peak memory   : 3187.23 MB
+ Peak increase : +2978.75 MB
+==================================================

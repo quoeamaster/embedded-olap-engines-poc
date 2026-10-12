@@ -1,0 +1,27 @@
+[ single mode ]
+
+==================================================
+ Benchmark: run_memory
+==================================================
+ Execution time : 0.0644 seconds
+ Memory before : 119.19 MB
+ Memory after  : 158.69 MB
+ Memory change : +39.50 MB
+ Peak memory   : 158.92 MB
+ Peak increase : +39.73 MB
+==================================================
+
+[ stress mode - 10 ]
+
+==================================================
+ Benchmark: run_memory
+==================================================
+ Execution time : 0.4843 seconds
+ Memory before : 120.22 MB
+ Memory after  : 180.41 MB
+ Memory change : +60.19 MB
+ Peak memory   : 180.78 MB
+ Peak increase : +60.56 MB
+==================================================
+
+
